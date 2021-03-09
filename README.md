@@ -1,2 +1,3 @@
-# fundamentos-nodejs
-Fundamentos Básico de NodeJS
+# Fundamentos de NodeJS
+
+Ignite - Trilha Node.JS
